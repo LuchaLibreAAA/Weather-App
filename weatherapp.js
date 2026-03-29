@@ -46,7 +46,9 @@ let placename=document.getElementById("cityname").value;
 fetchdata(placename);
 
 outputcenter.style.display=`inline-block`;
-
+if(userinterface.style.marginTop=='700px'){// so i dont fuck with the desktop view
+userinterface.style.marginTop=`200px`;
+}
 
 }
 
