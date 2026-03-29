@@ -1,10 +1,10 @@
 outputcenter.style.display=`none`;
 
 async function fetchdata(place) {
-    const APIKEY=`95deb52009084fc9b86123003263001`;
+    const KEY=`95deb52009084fc9b86123003263001`;
 
 try{
-    const response = await fetch(`https://api.weatherapi.com/v1/current.json?key=${APIKEY}&q=${place}`);    
+    const response = await fetch(`https://api.weatherapi.com/v1/current.json?key=${KEY}&q=${place}`);    
     
 
 
@@ -18,7 +18,7 @@ if(response.status==400 ){
     
   const data=await response.json();
 
-    console.log(data);
+  //  console.log(data); only for deployment
      
     bigcityname.textContent=`${data.location.name.toUpperCase()} , ${(data.location.country).toUpperCase()}`;
   let temp=data.current.temp_c;
