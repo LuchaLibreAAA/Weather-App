@@ -46,8 +46,8 @@ let placename=document.getElementById("cityname").value;
 fetchdata(placename);
 
 outputcenter.style.display=`inline-block`;
-if (getComputedStyle(userinterface).marginTop === '700px') {
-    userinterface.style.marginTop = '200px';
+if (getComputedStyle(userinterface).marginTop === '700px') {// get computed references back to the css stylesheet which is not possible normally
+    userinterface.style.marginTop = '100px';
 }
 
 }
