@@ -1,10 +1,10 @@
 outputcenter.style.display=`none`;
 
 async function fetchdata(place) {
-    const KEY=`95deb52009084fc9b86123003263001`;
+    const fv=`95deb52009084fc9b86123003263001`;
 
 try{
-    const response = await fetch(`https://api.weatherapi.com/v1/current.json?key=${KEY}&q=${place}`);    
+    const response = await fetch(`https://api.weatherapi.com/v1/current.json?key=${fv}&q=${place}`);    
     
 
 
