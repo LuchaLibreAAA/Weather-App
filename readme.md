@@ -12,3 +12,8 @@ A simple web app that displays current weather information.
 - External API
 ## Demo Link
 https://weatherappbysg.netlify.app/
+
+yes i used the clanker to write this readme file so what ?
+half shit you see on the net is clanker made.
+does it really matter atp. atleast the project is not clanker generated
+u can tell by the shitty code
