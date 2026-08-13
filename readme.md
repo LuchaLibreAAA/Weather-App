@@ -1,6 +1,6 @@
 # Weather App
 
-A simple web app that displays current weather information
+A simple web app that displays current weather information.
 
 ## Features
 - Search weather by city name
