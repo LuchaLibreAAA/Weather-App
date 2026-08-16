@@ -10,7 +10,7 @@ A simple web app that displays current weather information.
 ## Technologies Used
 - HTML, CSS, JavaScript
 - External API
-## Demo Link
+## Working Link
 https://weatherappbysg.netlify.app/
 
 yes i used the clanker to write this readme file so what ?
