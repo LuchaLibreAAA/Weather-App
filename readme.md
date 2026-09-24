@@ -1,7 +1,7 @@
 <img width="1615" height="865" alt="image" src="https://github.com/user-attachments/assets/056730a8-7ec8-4a3e-a6c1-3eb8318f094c" />
 
 <br>
-# Weather App
+## Weather App
 
 A simple web app that displays current weather information.
 
