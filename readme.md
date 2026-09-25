@@ -18,6 +18,6 @@ A simple web app that displays current weather information.
 https://weatherappbysg.netlify.app/
 
 yes i used the clanker to write this readme file so what ?
-half shit you see on the net is clanker made.
+half of the shit you see on the internet is clanker made.
 does it really matter atp. atleast the project is not clanker generated
 u can tell by the shitty code lol.
